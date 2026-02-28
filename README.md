@@ -4,8 +4,9 @@ A simple CircuitPython library that controls the onboard LED on Raspberry Pi Pic
 Easy for beginners.
 ## Installation
 
-1. Copy the `blinkboard` folder to `CIRCUITPY/lib/`.
-2. Use as follows:
+1. Copy the `blinkboard-main/blinkboard-main` folder to `CIRCUITPY/lib/`.
+2. Rename to `blinkboard`
+3. Use as follows:
 import blinkboard
 
 ### Documentation
